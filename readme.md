@@ -11,6 +11,7 @@ WordPress hosting is silly. Serverless WordPress on Vercel, Netlify, or AWS Lamb
 
 ## Project goals
 
+
 ✅ Maintaining servers for WordPress can be a pain. Serverless hosting should be less work.
 
 ✅ Small WordPress sites shouldn't cost much (or anything) to host. **Vercel, Netlify, AWS, & PlanetScale have free tiers**.
